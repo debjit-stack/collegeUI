@@ -1,0 +1,17 @@
+{
+  "name": "college-website",
+  "version": "1.0.0",
+  "description": "A robust college webpage showcasing all available facilities.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
